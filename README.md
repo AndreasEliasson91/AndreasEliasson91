@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Andreas Eliasson 👋</h1>
 
-<h3 align="center">Short About Me</h3>
+<h3>Short About Me</h3>
 <ul>
   <li>:school: Student - Python Development with a focus on AI and Machine Learning</li>
   <li>:earth_africa: Gothenburg, Sweden</li>
   <li>:cook: Former chef</li>
   <li>:seedling: Live For Outdoor Activities - Takes every chance I get to explore the nature</li>
   <li>:soccer: Sports Fanatic - Soccer, ice hockey, american football, alpine skiing, you name it!</li>
-  <li>:video_game: Video Game Lover - Proud PS5-owner and super fan of the Horizon Franchise etc.</li>
+  <li>:video_game: Video Game Lover - PS5 or PC; Big fan of the Horizon Franchise, the Assassin's Creed Franchise and so on</li>
   <li>:dog2: Elvis</li>
 </ul>
 <br><br><br>
-<h3 align="center">Programming Languages</h3>
-<p align="center"> 
+<h3>Programming Languages</h3>
+<p> 
   &emsp; 
   <a href="https://github.com/AndreasEliasson91/Shopping-List" target="_blank"> 
       <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -39,8 +39,8 @@
   </a>
 </p>
 <br>
-<h3 align="center">Software & Tools</h3>
-<p align="center"> 
+<h3>Software & Tools</h3>
+<p> 
   &emsp; 
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a> 
   &emsp;
@@ -59,8 +59,8 @@
   <a href="#"><img alt="UE" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
 </p>
 <br>
-<h3 align="center">Databases</h3>
-<p align="center"> 
+<h3>Databases</h3>
+<p> 
   &emsp; 
   <a href="#"><img alt="MongDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> 
   &emsp;
