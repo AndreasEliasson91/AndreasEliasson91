@@ -67,8 +67,8 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 <br><br><br>
-<h3 align="center">Get In Touch</h3>
-<p align="center"> 
+<h3>Get In Touch</h3>
+<p> 
   &emsp;
   <a href="https://discordapp.com/users/aeliasson1991#5724/"> 
       <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
