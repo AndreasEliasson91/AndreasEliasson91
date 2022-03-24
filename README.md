@@ -1,14 +1,9 @@
 <h1 align="center">Hi there, I'm Andreas Eliasson 👋</h1>
 
-<h3>Short About Me</h3>
+<h3>About Me</h3>
 <ul>
   <li>:school: Student - Python Development with a focus on AI and Machine Learning</li>
   <li>:earth_africa: Gothenburg, Sweden</li>
-  <li>:cook: Former chef</li>
-  <li>:seedling: Live For Outdoor Activities - Takes every chance I get to explore the nature</li>
-  <li>:soccer: Sports Fanatic - Soccer, ice hockey, american football, alpine skiing, you name it!</li>
-  <li>:video_game: Video Game Lover - PS5 or PC; Big fan of the Horizon Franchise, the Assassin's Creed Franchise and so on</li>
-  <li>:dog2: Elvis</li>
 </ul>
 <br><br><br>
 <h3>Programming Languages</h3>
